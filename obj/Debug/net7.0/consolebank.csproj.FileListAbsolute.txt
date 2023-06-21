@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.AssemblyInfo.cs
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\consolebank\bin\Debug\net7.0\consolebank.exe
+C:\Users\hp\source\repos\consolebank\bin\Debug\net7.0\consolebank.deps.json
+C:\Users\hp\source\repos\consolebank\bin\Debug\net7.0\consolebank.runtimeconfig.json
+C:\Users\hp\source\repos\consolebank\bin\Debug\net7.0\consolebank.dll
+C:\Users\hp\source\repos\consolebank\bin\Debug\net7.0\consolebank.pdb
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.dll
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\refint\consolebank.dll
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.pdb
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\consolebank.genruntimeconfig.cache
+C:\Users\hp\source\repos\consolebank\obj\Debug\net7.0\ref\consolebank.dll
